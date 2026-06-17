@@ -32,6 +32,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+PostgreSQL;Bases+de+Datos+Relacionales;Desarrollo+Web;Git+%26+GitHub;Siempre+aprendiendo+nuevas+tecnologías"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=benjamin-Teo1&style=for-the-badge&color=2563eb&label=VISITAS"/>
+</p>
+
+---
+
 # 👨‍💻 Sobre mí
 
 <img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -49,6 +55,9 @@
 🔗 Portafolio:
 
 https://benjamin-teo1.github.io/Portafolio
+
+<br clear="right"/>
+
 ---
 
 # 🛠 Tech Stack
@@ -69,6 +78,10 @@ https://benjamin-teo1.github.io/Portafolio
 📊 Bases de Datos
 🧠 Algoritmos
 ```
+
+<p align="center">
+<img src="https://media.tenor.com/x4xiTeNuhFEAAAAC/coding-programming.gif" width="450">
+</p>
 
 ---
 
@@ -204,10 +217,38 @@ Desarrollo Web
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/benjamin-Teo1/benjamin-Teo1/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📅 Mapa de Contribuciones
+
+<p align="center">
+<img src="https://ghchart.rshah.io/2563eb/benjamin-Teo1" alt="contribution chart"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/benjamin-Teo1/benjamin-Teo1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
+
+---
+
 # 📊 Métricas Avanzadas
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamin-Teo1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benjamin-Teo1&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benjamin-Teo1&theme=tokyonight"/>
 </p>
 
 ---
@@ -216,6 +257,14 @@ Desarrollo Web
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjamin-Teo1&theme=tokyo-night"/>
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -236,15 +285,15 @@ Desarrollo Web
 <p align="center">
 
 <a href="https://www.linkedin.com/in/teo-rojas-58938b401">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/benjamin-Teo1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://benjamin-teo1.github.io/Portafolio">
-<img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -273,3 +322,6 @@ Desarrollo Web
 
 </div>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:1e40af,60:2563eb,100:38bdf8&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff"/>
+</p>
