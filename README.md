@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Benjamín Teo Rojas
 
-<!--
-**benjamin-Teo1/benjamin-Teo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola! 👋
 
-Here are some ideas to get you started:
+Soy estudiante de primer año de la Tecnicatura Universitaria en Programación Full Stack en la Universidad Provincial de Córdoba.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me apasiona la programación, el desarrollo web y las bases de datos. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos y personales que me permiten aplicar conceptos de programación, algoritmos y gestión de datos.
+
+## 🚀 Tecnologías y herramientas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- PostgreSQL
+- PSeInt
+- SQL
+
+## 📚 Formación Académica
+
+**Universidad Provincial de Córdoba**
+- Tecnicatura Universitaria en Programación Full Stack
+- Primer Año
+
+## 📂 Proyectos Académicos
+
+- Sistema de gestión de alumnos y notas con PostgreSQL.
+- Página web educativa sobre neurociencia y nutrición.
+- Calculadora de CUS y planes nutricionales.
+- Ejercicios de algoritmos en PSeInt.
+- Portafolio personal con GitHub Pages.
+
+## 🎯 Objetivos
+
+Continuar desarrollando habilidades en programación, bases de datos y desarrollo web para participar en proyectos cada vez más desafiantes y crecer profesionalmente en el sector tecnológico.
+
+## 🌐 Contacto y Redes
+
+- 💼 LinkedIn: www.linkedin.com/in/teo-rojas-58938b401
+- 💻 GitHub: https://github.com/benjamin-Teo1
+- 🌍 Portafolio Web: https://benjamin-teo1.github.io/Portafolio
