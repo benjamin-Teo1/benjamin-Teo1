@@ -2,7 +2,7 @@
 
 ## ¡Hola! 👋
 
-🎓 Estudiante de Programación Full Stack.
+## 🎓 Estudiante de Programación Full Stack.
 
 Soy estudiante de primer año de la Tecnicatura Universitaria en Programación Full Stack en la Universidad Provincial de Córdoba.
 
