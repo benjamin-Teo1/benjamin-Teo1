@@ -1,121 +1,198 @@
-# <h1 align="center">👋 Hola, soy Benjamín Teo Rojas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,30:1e40af,60:2563eb,100:38bdf8&text=BENJAMÍN%20TEO%20ROJAS&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<h1 align="center">
+👋 Hola, soy Benjamín Teo Rojas
+</h1>
 
 <h3 align="center">
-🎓 Estudiante de Programación Full Stack | 💻 Desarrollo Web | 🗄️ Bases de Datos
+🎓 Estudiante de Programación Full Stack | 💻 Desarrollo Web | 🗄️ Bases de Datos | 🚀 Aprendiz Permanente
 </h3>
 
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Full%20Stack%20Student-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+perfil+de+GitHub;Estudiante+de+Programación+Full+Stack;Apasionado+por+la+Tecnología;Construyendo+Proyectos+y+Aprendiendo;Siempre+buscando+nuevos+desafíos"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+PostgreSQL;Bases+de+Datos+Relacionales;Desarrollo+Web;Git+%26+GitHub;Siempre+aprendiendo+nuevas+tecnologías"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=benjamin-Teo1&style=for-the-badge&color=2563eb"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-🎓 Actualmente estudio la **Tecnicatura Universitaria en Programación Full Stack** en la **Universidad Provincial de Córdoba (UPC)**.
+🎓 Soy estudiante de primer año de la Tecnicatura Universitaria en Programación Full Stack.
 
-💡 Me apasionan la programación, el desarrollo web y las bases de datos.
+💡 Me interesa el desarrollo web, las bases de datos, la lógica de programación y la construcción de soluciones tecnológicas.
 
-📚 Actualmente estoy aprendiendo:
+📚 Actualmente estoy desarrollando proyectos académicos y personales para fortalecer mis conocimientos.
 
-* HTML5
-* CSS3
-* JavaScript
-* PostgreSQL
-* SQL
-* Git & GitHub
-* Algoritmos y Estructuras de Datos
-* Programación Full Stack
+🎯 Mi objetivo es convertirme en desarrollador Full Stack profesional y continuar aprendiendo nuevas tecnologías.
 
-🎯 Mi objetivo es convertirme en desarrollador Full Stack y participar en proyectos tecnológicos que generen impacto real.
+🌎 Ubicación: Córdoba, Argentina.
 
-🌐 **Portafolio Web:**
+🔗 Portafolio:
 
-👉 https://benjamin-teo1.github.io/Portafolio
-
+https://benjamin-teo1.github.io/Portafolio
 ---
 
-## 🛠 Tecnologías y Herramientas
-
-### 💻 Desarrollo Web
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🗄️ Bases de Datos
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
-
-### ⚙️ Herramientas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,postgresql,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Académicos
+# 🚀 Actualmente Trabajando En
 
-### 🗄️ Base de Datos UPC
-
-Sistema desarrollado en PostgreSQL utilizando:
-
-✔ Relaciones entre tablas
-
-✔ INNER JOIN, LEFT JOIN, RIGHT JOIN y FULL JOIN
-
-✔ Vistas (VIEW)
-
-✔ Funciones de agregación
-
-✔ Operadores SQL
-
-✔ Consultas avanzadas
+```txt
+📚 Programación Full Stack
+🗄️ PostgreSQL
+💻 Desarrollo Web
+🌐 GitHub Pages
+📊 Bases de Datos
+🧠 Algoritmos
+```
 
 ---
 
-### 📊 Calculadora CUS
+# 📊 Nivel de Conocimientos
+
+| Tecnología | Nivel          |
+| ---------- | -------------- |
+| HTML5      | ████████░░ 80% |
+| CSS3       | ███████░░░ 70% |
+| JavaScript | █████░░░░░ 50% |
+| SQL        | ████████░░ 80% |
+| PostgreSQL | ███████░░░ 70% |
+| Git        | ███████░░░ 70% |
+| GitHub     | ███████░░░ 70% |
+
+---
+
+# 🚀 Proyectos Académicos
+
+## 🗄️ Base de Datos UPC
+
+* Relaciones entre tablas
+* Primary Key
+* Foreign Key
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL JOIN
+* VIEW
+* Funciones de agregación
+* Consultas avanzadas
+
+## 📊 Calculadora CUS
 
 Aplicación orientada al cálculo de indicadores nutricionales y deportivos.
 
----
+## 🧠 Sitio Web sobre Neurociencia y Nutrición
 
-### 🧠 Sitio Web sobre Neurociencia y Nutrición
+Proyecto educativo integrando ciencia, tecnología y deporte.
 
-Proyecto educativo integrando:
-
-* Neurociencia
-* Nutrición Deportiva
-* Educación Física
-* Tecnología
-
----
-
-### 🌐 Portafolio Personal
-
-Página web desarrollada con HTML y CSS y publicada mediante GitHub Pages.
+## 🌐 Portafolio Personal
 
 🔗 https://benjamin-teo1.github.io/Portafolio
 
 ---
 
-## 🏆 GitHub Trophies
+# 🧭 Roadmap de Aprendizaje
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=benjamin-Teo1&theme=tokyonight&row=1&column=6" />
-</p>
+## ✅ Conocimientos Adquiridos
+
+* Git
+* GitHub
+* HTML
+* CSS
+* SQL
+* PostgreSQL
+* PSeInt
+* Diagramas de Flujo
+
+## 🚀 Actualmente Aprendiendo
+
+* JavaScript
+* Historias de Usuario
+* Bases de Datos Relacionales
+* Desarrollo Full Stack
+
+## 🎯 Próximamente
+
+* React
+* Node.js
+* APIs REST
+* Docker
+* TypeScript
 
 ---
 
-## 📈 Estadísticas de GitHub
+# 🎯 Objetivos 2026
+
+☑ Aprobar Programación Full Stack
+
+☑ Dominar PostgreSQL
+
+☑ Mejorar en JavaScript
+
+☑ Desarrollar proyectos más complejos
+
+☑ Construir un portfolio profesional
+
+☐ React
+
+☑ Node.js
+
+☐ Primera experiencia profesional
+
+---
+
+# 📌 Progreso de Objetivos
+
+```txt
+Programación Full Stack
+████████░░ 80%
+
+PostgreSQL
+███████░░░ 70%
+
+JavaScript
+█████░░░░░ 50%
+
+Git y GitHub
+███████░░░ 70%
+
+Desarrollo Web
+████████░░ 80%
+```
+
+---
+
+# 📈 Estadísticas GitHub
 
 <p align="center">
 
@@ -133,36 +210,72 @@ Página web desarrollada con HTML y CSS y publicada mediante GitHub Pages.
 
 ---
 
-## 🌐 Contacto
+# 📊 Métricas Avanzadas
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamin-Teo1&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Actividad GitHub
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=benjamin-Teo1&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📚 Actualmente Estudiando
+
+* Programación Full Stack
+* Bases de Datos
+* Algoritmos
+* Emprendedurismo
+* Alfabetización Digital
+* Análisis Sistémico
+
+---
+
+# 🌎 Contacto
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/teo-rojas-58938b401">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/benjamin-Teo1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://benjamin-teo1.github.io/Portafolio">
-<img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-</div>
+</p>
+
+---
+
+# 💡 Filosofía
+
+> "La programación no consiste únicamente en escribir código, sino en aprender continuamente, resolver problemas y construir soluciones útiles para las personas."
 
 ---
 
 <div align="center">
 
-### 🌟 "Siempre aprendiendo algo nuevo"
+## ⭐ Gracias por visitar mi perfil ⭐
 
-💻 Programación Full Stack
+🚀 Programación Full Stack
 
 📚 Universidad Provincial de Córdoba
 
-🚀 Construyendo proyectos y adquiriendo experiencia cada día
+💻 Desarrollo Web
 
-⭐ Gracias por visitar mi perfil ⭐
+🗄️ Bases de Datos
+
+🌱 Aprendiendo cada día
 
 </div>
+
