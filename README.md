@@ -32,12 +32,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+PostgreSQL;Bases+de+Datos+Relacionales;Desarrollo+Web;Git+%26+GitHub;Siempre+aprendiendo+nuevas+tecnologías"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=benjamin-Teo1&style=for-the-badge&color=2563eb"/>
-</p>
-
----
-
 # 👨‍💻 Sobre mí
 
 <img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
