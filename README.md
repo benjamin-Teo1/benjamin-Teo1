@@ -2,6 +2,8 @@
 
 ## ¡Hola! 👋
 
+🎓 Estudiante de Programación Full Stack.
+
 Soy estudiante de primer año de la Tecnicatura Universitaria en Programación Full Stack en la Universidad Provincial de Córdoba.
 
 Me apasiona la programación, el desarrollo web y las bases de datos. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos y personales que me permiten aplicar conceptos de programación, algoritmos y gestión de datos.
