@@ -147,7 +147,7 @@ Proyecto educativo integrando ciencia, tecnología y deporte.
 
 # 🎯 Objetivos 2026
 
-☑ Aprobar Programación Full Stack
+☑ Aprender Git
 
 ☑ Dominar PostgreSQL
 
@@ -156,8 +156,6 @@ Proyecto educativo integrando ciencia, tecnología y deporte.
 ☑ Desarrollar proyectos más complejos
 
 ☑ Construir un portfolio profesional
-
-☐ React
 
 ☑ Node.js
 
@@ -175,10 +173,10 @@ PostgreSQL
 ███████░░░ 70%
 
 JavaScript
-█████░░░░░ 50%
+█████░░░░░ 70%
 
 Git y GitHub
-███████░░░ 70%
+███████░░░ 80%
 
 Desarrollo Web
 ████████░░ 80%
