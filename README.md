@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,30:1e40af,60:2563eb,100:38bdf8&text=BENJAMÍN%20TEO%20ROJAS&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+  <img src="banner.png" alt="Benjamín Teo Rojas Banner">
 </p>
 
 <h1 align="center">
